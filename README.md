@@ -2,7 +2,7 @@
 
 [Link to my Portfolio](https://github.com/brightburst641/ist-portfolio-kenzo)
 
-This is a repository to host different projects and xercises from my IST course.
+This is a repository to host different projects and exercises from my IST course.
 
 Here are the steps to using git to add new content.
 
